@@ -20,6 +20,7 @@
 
 ### Bug Fixes
 
+-   [`2b5e5c6`](https://github.com/stdlib-js/stdlib/commit/2b5e5c6be9fe4b9f1a0e235a6b50c4fe5554707b) - account for edge case where `n <= 0`
 -   [`fd9991b`](https://github.com/stdlib-js/stdlib/commit/fd9991b94b618d3adfd81f177ddda412388bf1df) - remove conditional
 
 </section>
@@ -32,6 +33,7 @@
 
 <details>
 
+-   [`2b5e5c6`](https://github.com/stdlib-js/stdlib/commit/2b5e5c6be9fe4b9f1a0e235a6b50c4fe5554707b) - **fix:** account for edge case where `n <= 0` _(by Athan Reines)_
 -   [`a3e7978`](https://github.com/stdlib-js/stdlib/commit/a3e79786217bf1c9a84875203251af82cc93a222) - **docs:** update markup _(by Athan Reines)_
 -   [`fd9991b`](https://github.com/stdlib-js/stdlib/commit/fd9991b94b618d3adfd81f177ddda412388bf1df) - **fix:** remove conditional _(by Athan Reines)_
 -   [`da9d08b`](https://github.com/stdlib-js/stdlib/commit/da9d08b99b9662e7421722b5c2af30f6bfb1bbf5) - **docs:** add missing require to TSDoc example code _(by Philipp Burckhardt)_
