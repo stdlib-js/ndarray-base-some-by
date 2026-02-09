@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import someBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-some-by@deno/mod.js';
+import someBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-some-by@v0.1.1-deno/mod.js';
 ```
 
 #### someBy( arrays, predicate\[, thisArg ] )
@@ -195,7 +195,7 @@ var count = ctx.count;
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
 import scalar2ndarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-from-scalar@deno/mod.js';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-to-array@deno/mod.js';
-import someBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-some-by@deno/mod.js';
+import someBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-some-by@v0.1.1-deno/mod.js';
 
 function predicate( value ) {
     return value > 0;
